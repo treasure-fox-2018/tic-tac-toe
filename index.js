@@ -1,7 +1,6 @@
 function ticTac(firstMove){
   var board = [];
-  var xo = 'XO'
-  var count = 0;
+  var xo = 'XO';
   var x = 4;
   var o = 4;
 
